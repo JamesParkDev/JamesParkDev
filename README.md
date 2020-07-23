@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![cat](https://i.imgur.com/q4Evbh1.png)
 
 <!--
 **JamesParkDev/JamesParkDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
