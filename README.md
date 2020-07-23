@@ -1,6 +1,6 @@
 
 ![cat](https://i.imgur.com/q4Evbh1.png)
-
+00 was here
 <!--
 **JamesParkDev/JamesParkDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
