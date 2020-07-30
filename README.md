@@ -1,6 +1,11 @@
 
-![cat](https://i.imgur.com/q4Evbh1.png)
-00 was here
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jamesparkdev&show_icons=true&theme=radical)
+
+
+
+<!-- Messages From cool ppl below: -->
+<!-- 00 was here -->
+
 <!--
 **JamesParkDev/JamesParkDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
