@@ -1,22 +1,9 @@
+<h1 align="center">👋 I'm JamesParkDev a self-taught programmer.</h1>
+<h3 align="center">I love working on random projects! Add me on discord James#2681</h3>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jamesparkdev&show_icons=true&theme=radical)
-
-
+<p align="center">
+  <img align="center" alt="Metrics" src="https://metrics.lecoq.io/JamesParkDev?template=classic&activity=1&projects=1&languages=1&isocalendar=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=undefined&activity.timestamps=false&isocalendar.duration=undefined&languages.colors=github&languages.threshold=0%25&projects.limit=4&projects.descriptions=false&config.timezone=Europe%2FBelgrade&config.animated=true" />
+</p
 
 <!-- Messages From cool ppl below: -->
 <!-- 00 was here -->
-
-<!--
-**JamesParkDev/JamesParkDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
