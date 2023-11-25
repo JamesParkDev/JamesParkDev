@@ -110,12 +110,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/36516118?s=400&u=144261102898c3135520c297572e41a512658641&v=4"  />
-
-###
-
 <img src="https://raw.githubusercontent.com/jamesparkdev/jamesparkdev/output/snake.svg" alt="Snake animation" />
 
 ###
