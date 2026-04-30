@@ -19,5 +19,11 @@
 ###
 
 <p align="center">
-<img src="./github-metrics.svg" alt="Metrics" height="100%">
+  <a href="#">
+    <img width="400" align="top" src="github-metrics-left.svg" />
+  </a>
+  &emsp;
+  <a href="#">
+    <img width="400" align="top" src="github-metrics-right.svg" />
+  </a>
 </p>
